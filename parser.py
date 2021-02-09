@@ -61,7 +61,7 @@ def refine_txt_files():
             file.close()
 
             file_append = open('txt_files/' + str(line_number) + file_name, 'a')
-            file_append.write(']]')
+            file_append.write(']]>')
             file_append.close()
             line_number += 1
         except:
