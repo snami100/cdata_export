@@ -1,0 +1,2221 @@
+C:\Users\s.amin\AppData\Local\Programs\Python\Python38\python.exe "C:/Users/s.amin/Desktop/Vlad_Projekt - Kopie/Vlad_Projekt/parser.py"
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3000Ex</th>
+				<th scope="col">IT8000Ex</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW, SWA, SWT</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ex-Zonen.png" width="40" height="35" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3000Ex</th>
+				<th scope="col">IT8000Ex</th>
+          </tr>
+		<tbody>
+			<tr>
+				<td>ATEX-Zulassung für die Zonen 1, 2, 21 und 22</td>
+				<td>ATEX-Zulassung für die Zonen 1, 2, 21 und 22 and IECEx BVS 17.0093</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col">IT3000Ex</th>
+				<th scope="col">IT8000Ex</th>
+	
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW, SWA, SWT</td>
+
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col">IT8000E</th>
+				<th scope="col" class="text-center">IT8000E Ex2/22*</th>
+				<th scope="col" class="text-center">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col">IT8000E</th>
+				<th scope="col" class="text-center">IT8000E Ex2/22*</th>
+				<th scope="col" class="text-center">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col">IT8000E</th>
+				<th scope="col" class="text-center">IT8000E Ex2/22*</th>
+				<th scope="col" class="text-center">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" alt="CE-zertifiziert: SysTec Wägeterminals" title="CE-zertifiziert: SysTec Wägeterminals" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" alt="NTEP-Bauartzulassung: SysTec Wägeterminals" title="NTEP-Bauartzulassung: SysTec Wägeterminals" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" alt="ETL zertifiziert: SysTec Wägeterminals" title="ETL zertifiziert: SysTec Wägeterminals" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" alt="EMI zertifiziert: SysTec Wägeterminals" title="EMI zertifiziert: SysTec Wägeterminals" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT1</th>
+				<th scope="col">IT1 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW, SWA</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW, SWA</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" alt="NTEP Bauartzulassung: SysTec Wägeindikatoren" title="NTEP Bauartzulassung: SysTec Wägeindikatoren" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" alt="ETL-zertifiziert: SysTec Wägeindikatoren" title="ETL-zertifiziert: SysTec Wägeindikatoren" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" alt="EMI zertifiziert: SysTec Wägeindikatoren" title="EMI zertifiziert: SysTec Wägeindikatoren"width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT2000M</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW, SWA</td>
+				<td>als NSW, SWA</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" alt="NTEP Bauartzulassung: SysTec Wägeindikatoren" title="NTEP Bauartzulassung: SysTec Wägeindikatoren" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" alt="ETL zertifiziert: SysTec Wägeindikatoren" title="ETL zertifiziert: SysTec Wägeindikatoren" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" alt="EMI: SysTec Wägeindikatoren" title="EMI: SysTec Wägeindikatoren" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ethernet-IP.png" alt="Ethernet IP: SysTec Wägeindikatoren" title="Ethernet IP: SysTec Wägeindikatoren" width="146" height="53" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td><i class="fal fa-check"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3 Blackbox</th>
+				<th scope="col">IT3 Blackbox Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW, SWA</td>
+				<td>als NSW, SWA</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3 Blackbox</th>
+				<th scope="col">IT3 Blackbox Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3 Blackbox</th>
+				<th scope="col">IT3 Blackbox Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW, SWA, SWE, SKW, GAW, PAW, SWT</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ethernet-IP.png" width="146" height="53" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td><i class="fal fa-check"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" alt="CE zertifiziert: SysTec Wägeterminals" title="CE zertifiziert: SysTec Wägeterminals" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW, SWA, SWE, SKW, GAW, PAW, SWT</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" alt="NTEP Bauartzulassung: SysTec Wägeterminals" title="NTEP Bauartzulassung: SysTec Wägeterminals" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+			<th scope="col">-</th>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" alt="ETL zertifiziert: SysTec Wägeterminals" title="ETL zertifiziert: SysTec Wägeterminals" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" alt="EMI zertifiziert: SysTec Wägeterminals" title="EMI zertifiziert: SysTec Wägeterminals" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT4000E</th>
+				<th scope="col">IT4000E Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ethernet-IP.png" width="146" height="53" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="50%">IT3</th>
+				<th scope="col">IT3 Ex2/22</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td><i class="fal fa-check"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT6000E</th>
+				<th scope="col" width="33%">IT6000E Ex2/22*</th>
+				<th scope="col" width="33%">IT6000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>als NSW</td>
+				<td>als NSW</td>
+				<td>als NSW</td>
+
+			</tr>
+			<tr>
+				<td>als SWA</td>
+				<td>als SWA</td>
+				<td>als SWA</td>
+			</tr>
+			<tr>
+				<td>als SWE</td>
+				<td>als SWE</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>als SKW</td>
+				<td>als SKW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>als GAW</td>
+				<td>als GAW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>als PAW</td>
+				<td>als PAW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>als SWT</td>
+				<td>als SWT</td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT6000E</th>
+				<th scope="col" width="33%">IT6000E Ex2/22*</th>
+				<th scope="col" width="33%">IT6000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT6000E</th>
+				<th scope="col" width="33%">IT6000E Ex2/22*</th>
+				<th scope="col" width="33%">IT6000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT6000E</th>
+				<th scope="col" width="33%">IT6000E Ex2/22*</th>
+				<th scope="col" width="33%">IT6000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ex-Zonen.png" width="40" height="35" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT6000E</th>
+				<th scope="col" width="33%">IT6000E Ex2/22*</th>
+				<th scope="col" width="33%">IT6000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>-</td>
+				<td>ATEX-Zulassung für <BR>die Ex-Zonen 2 und 22</td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-CE.png" alt="CE EU-Baumusterprüfbescheinigung SysTec" title="CE EU-Baumusterprüfbescheinigung" width="28" height="21" class="float-left mt-1 mr-2">
+<h4>EU-Baumusterprüfbescheinigung</h4>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT8000E</th>
+				<th scope="col" width="33%">IT8000E Ex2/22*</th>
+				<th scope="col" width="33%">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>NSW</td>
+				<td>NSW</td>
+				<td>NSW</td>
+			</tr>
+			<tr>
+				<td>SWA</td>
+				<td>SWA</td>
+				<td>SWA</td>
+			</tr>
+			<tr>
+				<td>SWE</td>
+				<td>SWE</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>SKW</td>
+				<td>SKW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>GAW</td>
+				<td>GAW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>PAW</td>
+				<td>PAW</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>SWT</td>
+				<td>SWT</td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-NTEP-Bauartzulassung.png" alt="NTEP-Bauartzulassung SysTec" title="NTEP-Bauartzulassung - SysTec" width="28"width="30" height="28" class="float-left mr-2">
+<h4 class="mb-0">NTEP-Bauartzulassung</h4>
+<h5>als indicating element</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT8000E</th>
+				<th scope="col" width="33%">IT8000E Ex2/22*</th>
+				<th scope="col" width="33%">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Intertek.png" alt="ETL-zertifiziert SysTec" title="ETL-zertifiziert SysTec" width="31" height="29" class="float-left mr-2">
+<h4 class="mb-0">ETL-zertifiziert</h4>
+<h5>in Übereinstimmung mit UL 62368-1 und CSA C22.2 Nr. 62368-1</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT8000E</th>
+				<th scope="col" width="33%">IT8000E Ex2/22*</th>
+				<th scope="col" width="33%">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-FC.png" alt="EMI in Übereinstimmung mit FCC" title="EMI in Übereinstimmung mit FCC" width="25" height="19" class="float-left mt-1 mr-2">
+<h4 class="mb-0">EMI</h4>
+<h5>in Übereinstimmung mit FCC Teil 15</h5>
+
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT8000E</th>
+				<th scope="col" width="33%">IT8000E Ex2/22*</th>
+				<th scope="col" width="33%">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><i class="fal fa-check"></i></td>
+				<td>-</td>
+				<td><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+None
+None
+None
+None
+None
+<img src="/fileadmin/public/Redaktion/Bilder/Icons/Icon-Ex-Zonen.png" alt="ATEX approval SysTec weight indicators" title="ATEX approval SysTec weight indicators" width="40" height="35" class="mb-3" />
+<div class="table-responsive">
+	<table class="table">
+		<thead class="thead-light">
+			<tr>
+				<th scope="col" width="33%">IT8000E</th>
+				<th scope="col" width="33%">IT8000E Ex2/22*</th>
+				<th scope="col" width="33%">IT8000ET</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>-</td>
+				<td>ATEX-Zulassung für <BR>die Ex-Zonen 2 und 22</td>
+				<td>-</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<div class="table-responsive">
+	<table class="table table-striped small">
+		<thead>
+			<tr>
+				<th scope="col" width="22%">Modell</th>
+              <th scope="col" width="13%" class="text-center">IT1 <i>CHECK</i></th>
+              <th scope="col" width="13%" class="text-center">IT3 <i>CHECK</i></th>
+				<th scope="col" width="13%" class="text-center">IT6000E <i>EASY CHECK</i></th>
+				<th scope="col" width="13%" class="text-center">IT6000E <i>CHECK</i></th>
+				<th scope="col" width="13%" class="text-center">IT8000E <i>EASY CHECK</i></th>
+				<th scope="col" width="13%" class="text-center">IT8000E <i>CHECK</i></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Handbetrieb</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</i></td>
+			</tr>
+			<tr>
+				<td>Gewichts-Toleranzkontrolle mit Farbwechsel</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+					<td align="center">-</td>
+					<td align="center">-</td>
+					<td align="center">-</td>
+			</tr>
+			<tr>
+				<td>Signal-Ausgänge für <br />Unter Toleranz, Innerhalb Toleranz, Über Toleranz</td>
+					<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+			</tr>
+			<tr>
+				<td>Eichfähig als SWE, <BR>mit Alibispeicher (Start / Stopp Betrieb)</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+							<td align="center"><i class="fal fa-check"></i></td>
+							<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Eichfähig als SWE, <BR>mit Alibispeicher (dynamischer Betrieb)</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+							<td align="center">-</i></td>
+						<td align="center"><i class="fal fa-check"></i></td>
+					<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Eichfähig als SKW <BR>(Start / Stopp Betrieb)</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Eichfähig als SKW <BR>(dynamischer Betrieb)</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Signal-Ausgängen für <BR>TU2, TU1, OK, TO1, TO2-Zone</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Umfangreiche Statistik-Funktionen <BR>mit Mittelwert, Standardabweichung etc.</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Möglichkeit den Mittelwert auf Chargensoll zu regeln</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Artikel / Produkt-Datei</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Dynamische Gewichtserfassung</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+
+<tr>
+				<td>Automatischer Betrieb</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+			<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Pusher-Ansteuerung</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+			<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Lichtschranken-Betrieb</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Feldbus-Interface</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Kundenspezifisch anpassbar</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+			<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+</tr>
+  <tr>
+				<td>Alphanumerische Tastatur</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+<tr>
+				<td>Analoge Bandsteuerung</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+<div class="table-responsive">
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th scope="col" width="22%">Modell</th>
+              <th scope="col" width="13%" class="text-center">IT3 <i>TRUCK/ONLINE</i></th>
+              <th scope="col" width="13%" class="text-center">IT4000E <i>TRUCK/ONLINE</i></th>
+              <th scope="col" width="13%" class="text-center">IT6000E <i>TRUCK/ONLINE</i></th>
+              <th scope="col" width="13%" class="text-center">IT8000E <i>TRUCK/ONLINE</i></th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Eichfähig als NSW, mit Alibi-Speicher</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Erst-/Zweit-Einwegwägung <BR>mit Wägebeleg-Druck</td>
+		<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Online-/Offline-Mode</td>
+		<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Anschluß für PC-Netzwerk <BR>und Fern-Diagnose</td>
+						<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Achswägung</td>
+				<td align="center">-</td>
+		<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Produkt- und KFZ-Dateien</td>
+						<td align="center">-</td>
+		<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Adress-Datei</td>
+				<td align="center">-</td>
+		<td align="center">-</td>
+<td align="center"><i class="fal fa-check"></i></td>
+<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Wägedaten-Datei (intern, USB-Stick)</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Kundenspezifisch anpassbar</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Verbundwaage</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			<tr>
+				<td>Alphanumerische Tastatur</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center">-</td>
+				<td align="center"><i class="fal fa-check"></i></td>
+			</tr>
+			
+		</tbody>
+	</table>
+</div>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Modell|IT4000E DOS|IT6000E FILL|IT8000E FILL
+Eichfähig als SWA|-|x	|x	
+Anzahl Waagen|1|1|2
+Ventilsteuerung Überspiegel|x|x|x			
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<strong>Cookies</strong><br/>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/7d014903-3fa4-4f8f-85dd-201b226c9283/cd.js" type="text/javascript" async></script>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<form action="">
+
+    <div class="form-group row">
+        <div class="col-md-6">
+            <label>Für Modell</label>
+            <select class="zsb form-control" id="spannung" name="spannung">
+                <option value="" selected>Bitte wählen</option>
+                <option value="y">ProfiBox</option>
+                <option value="5">IT1</option>
+                <option value="5">IT1000</option>
+                <option value="x">IT2000P</option>
+                <option value="5">IT3</option>
+                <option value="5">IT3000A, IT3000AP, IT3000E</option>
+                <option value="4">IT3000Ex</option>
+                <option value="5">IT4000E</option>
+                <option value="5">IT6000E</option>
+                <option value="5">IT8000, IT8000E</option>
+                <option value="4">IT8000Ex</option>
+                <option value="5">IT9000E</option>
+            </select>
+        </div>
+        <div class="col-md-6 mt-5 form-check">
+            <input type="checkbox" class="form-check-input" id="zenerbarriere" name="zenerbarriere" />
+            <label class="form-check-label" for="zenerbarriere">mit Zenerbarriere für Ex-Bereich</label>
+        </div>
+    </div>
+
+    <h5>Wägezellen</h5>
+    <div class="form-group row">
+        <div class="col-md-4">
+            <label>Nennwiderstand</label>
+            <input class="zsb form-control" id="nennwiderstand" name="nennwiderstand" placeholder="Ohm" type="text" value="" />
+        </div>
+        <div class="col-md-4">
+            <label>Nennlast</label>
+            <input class="zsb form-control" id="nennlast" name="nennlast" placeholder="kg" type="text" value="" />
+        </div>
+        <div class="col-md-4">
+            <label>Kennwert</label>
+            <input class="zsb form-control" id="kennwert" name="kennwert" placeholder="mV/V" type="text" value="" />
+        </div>
+    </div>
+
+    <h5>Wägebrücke</h5>
+    <div class="form-group row">
+        <div class="col-md-6">
+            <label>Anzahl der Wägezellen</label>
+            <input class="zsb form-control" id="zellen" name="zellen" placeholder="" type="text" value="" />
+        </div>
+        <div class="col-md-6">
+            <label>Ziffernschritt</label>
+            <input class="zsb form-control" id="ziffernschritt" name="ziffernschritt" placeholder="" type="text" value="" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-md-6">
+            <label>Wägebereich</label>
+            <input class="zsb form-control" id="waegebereich" name="waegebereich" placeholder="kg" type="text" value="" />
+        </div>
+        <div class="col-md-6">
+            <label>Vorlast</label>
+            <input class="zsb form-control" id="vorlast" name="vorlast" placeholder="kg" type="text" value="" />
+        </div>
+    </div>
+
+    <button class="btn btn-secondary w-100" id="zsb" type="button">Ziffernschritt-Spannung berechnen</button>
+</form>
+
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+<div class="embed embed-responsive embed-responsive-16by9">
+  <video id="autoplayvideo" controls muted autoplay loop class="embed-responsive-item">
+   <source src="/fileadmin/public/Redaktion/Videos/F-Willich_Image-Video.mp4" type="video/mp4">
+  </video>
+  <button class="mute-video"></button>
+</div>
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+
+Process finished with exit code 0
