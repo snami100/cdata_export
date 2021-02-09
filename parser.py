@@ -7,7 +7,7 @@ root = tree.getroot()
 file_name = "_No_Translate.txt"
 
 
-def get_cdata():
+def get_cdata(state):
     line_number = 0
     for pageGrp in root.findall('pageGrp'):
         for data in pageGrp.iter('data'):
@@ -17,13 +17,16 @@ def get_cdata():
                 data_type = type(data_type)
                 if data_type == str:
                     line_number += 1
-
-                    # copy_content(data, line_number)  # copy the content of the cdata rows into a txt file
-                    # replace_content(data, line_number)  # replace the cdata rows with the file names
-                    txt_string = paste_former_content(line_number)  # paste the former content into the xml again
-                    data.text = txt_string
-
-    tree.write(xml_document, encoding="UTF-8", xml_declaration=True, method="xml") # only use this when using data.text = paste_former_content.... !
+                    if state == 0:
+                        copy_content(data, line_number)  # copy the content of the cdata rows into a txt file
+                    if state == 1:
+                        replace_content(data, line_number)  # replace the cdata rows with the file names
+                    if state == 2:
+                        print('Copy former content to its places')
+                        txt_string = paste_former_content(line_number)  # paste the former content into the xml again
+                        data.text = txt_string
+    if state == 2:
+        tree.write(xml_document, encoding="UTF-8", xml_declaration=True, method="xml")  # only use this when using data.text = paste_former_content.... !
 
 
 def copy_content(data, line_number):
@@ -63,7 +66,7 @@ def refine_txt_files():
             line_number += 1
         except:
             print('No File - exit')
-            exit()
+            return False
 
 
 def replace_lt_gt():
@@ -85,6 +88,12 @@ def replace_lt_gt():
     file_w.close()
 
 
-# refine_txt_files()
-# get_cdata()
-replace_lt_gt()
+def main():
+    get_cdata(state=0)  # state = 0 --> Copy CDATA Content to txt Files
+    get_cdata(state=1)  # state = 1 --> Replace CDATA Content with the Filenames
+    refine_txt_files()  # add CDATA brackets to TXT Files
+    get_cdata(state=2)  # copy TXT Inputs to its former position again
+    replace_lt_gt()  # replace &lt; with < and &gt; with >
+
+
+main()
