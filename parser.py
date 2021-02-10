@@ -1,18 +1,14 @@
-import xml.etree.ElementTree as ET
+import xml.etree.ElementTree as Et
 
-xml_document = "systecnet_catxml_de-de_to_en-GB_280121-113333.xml"
-with open(xml_document, 'r', encoding='utf-8') as xml_file:
-    tree = ET.parse(xml_file)
-root = tree.getroot()
 file_name = "_No_Translate.txt"
 
 
-def get_cdata(state):
+def get_cdata(root, xml_document, tree, state):
     line_number = 0
     for pageGrp in root.findall('pageGrp'):
         for data in pageGrp.iter('data'):
             tag = data.get("key").split(":")[2]
-            if (tag == "bodytext"):
+            if tag == "bodytext":
                 data_type = data.text
                 data_type = type(data_type)
                 if data_type == str:
@@ -20,13 +16,15 @@ def get_cdata(state):
                     if state == 0:
                         copy_content(data, line_number)  # copy the content of the cdata rows into a txt file
                     if state == 1:
-                        replace_content(data, line_number)  # replace the cdata rows with the file names
+                        replace_content(tree, xml_document, data,
+                                        line_number)  # replace the cdata rows with the file names
                     if state == 2:
                         print('Copy former content to its places')
                         txt_string = paste_former_content(line_number)  # paste the former content into the xml again
                         data.text = txt_string
     if state == 2:
-        tree.write(xml_document, encoding="UTF-8", xml_declaration=True, method="xml")  # only use this when using data.text = paste_former_content.... !
+        tree.write(xml_document, encoding="UTF-8", xml_declaration=True,
+                   method="xml")  # only use this when using data.text = paste_former_content.... !
 
 
 def copy_content(data, line_number):
@@ -35,14 +33,12 @@ def copy_content(data, line_number):
     file_open.close()
 
 
-
-def replace_content(data, line_number):
+def replace_content(tree, xml_document, data, line_number):
     data.text = str(line_number) + file_name
     tree.write(xml_document, encoding="UTF-8", xml_declaration=True)
 
 
 def paste_former_content(line_number):
-
     with open('txt_files/' + str(line_number) + file_name, 'r', encoding="UTF-8") as file:
         html_string = file.read()
     return html_string
@@ -69,31 +65,55 @@ def refine_txt_files():
             return False
 
 
-def replace_lt_gt():
-    file_name = 'systecnet_catxml_de-de_to_en-GB_280121-113333.xml'
-    with open(file_name, 'r', encoding='UTF-8') as file_r:
+def replace_lt_gt(xml_document):
+    with open(xml_document, 'r', encoding='UTF-8') as file_r:
         file_data = file_r.read()
-    file_r.close()
-    file_data = file_data.replace('&lt;', '<')
-    with open(file_name, 'w', encoding='UTF-8') as file_w:
+        file_r.close()
+        file_data = file_data.replace('&lt;', '<')
+    with open(xml_document, 'w', encoding='UTF-8') as file_w:
         file_w.write(file_data)
-    file_w.close()
+        file_w.close()
 
-    with open(file_name, 'r', encoding='UTF-8') as file_r:
+    with open(xml_document, 'r', encoding='UTF-8') as file_r:
         file_data = file_r.read()
-    file_r.close()
-    file_data = file_data.replace('&gt;', '>')
-    with open(file_name, 'w', encoding='UTF-8') as file_w:
+        file_r.close()
+        file_data = file_data.replace('&gt;', '>')
+    with open(xml_document, 'w', encoding='UTF-8') as file_w:
         file_w.write(file_data)
-    file_w.close()
+        file_w.close()
+
 
 
 def main():
-    get_cdata(state=0)  # state = 0 --> Copy CDATA Content to txt Files
-    get_cdata(state=1)  # state = 1 --> Replace CDATA Content with the Filenames
-    refine_txt_files()  # add CDATA brackets to TXT Files
-    get_cdata(state=2)  # copy TXT Inputs to its former position again
-    replace_lt_gt()  # replace &lt; with < and &gt; with >
+    xml_document = input("Bitte geben Sie den Pfad der XML-Datei an: ")
+    xml_document = str(xml_document)
+    with open(xml_document, 'r', encoding='utf-8') as xml_file:
+        tree = Et.parse(xml_file)
+    root = tree.getroot()
+    print("\n1 - Kopiere Inhalt der CDATA-Zeilen in neue TXT-Files und ersetze diese Zeilen durch die Dateinamen"
+          "\n2 - Kopiert nun den Inhalt der durch '1' Erstellten TXT-Files zurück an die ursprüngliche Position. (Bitte nur ausführen wenn zuvor einmal die 1 ausgeführt wurde)"
+          "\n3 - Führt 1 und 2 zusammen aus.")
+    input_num = input("\nBitte geben Sie nun Ihre Auswahl an: ")
+    input_num = int(input_num)
+
+    if input_num == 1:
+        print('\nOption 1 wurde ausgewählt\n')
+        get_cdata(root, xml_document, tree, state=0)  # state = 0 --> Copy CDATA Content to txt Files
+        get_cdata(root, xml_document, tree, state=1)  # state = 1 --> Replace CDATA Content with the Filenames
+        refine_txt_files()  # add CDATA brackets to TXT Files
+
+    if input_num == 2:
+        print('\nOption 2 wurde ausgewählt\n')
+        get_cdata(root, xml_document, tree, state=2)  # copy TXT Inputs to its former position again
+        replace_lt_gt(xml_document)  # replace &lt; with < and &gt; with >
+
+    if input_num == 3:  # do both
+        print('\nOption 1  und 2 wurde ausgewählt\n')
+        get_cdata(root, xml_document, tree, state=0)
+        get_cdata(root, xml_document, tree, state=1)
+        refine_txt_files()
+        get_cdata(root, xml_document, tree, state=2)
+        replace_lt_gt(xml_document)
 
 
 main()
