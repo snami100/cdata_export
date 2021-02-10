@@ -1,4 +1,5 @@
 import xml.etree.ElementTree as Et
+import os
 
 file_name = "_No_Translate.txt"
 
@@ -83,16 +84,25 @@ def replace_lt_gt(xml_document):
         file_w.close()
 
 
-
 def main():
-    xml_document = input("Bitte geben Sie den Pfad der XML-Datei an: ")
+    print('Beachten Sie bitte das die XML-Datei sich im selben Verzeichnis wie diese exe befinden muss.'
+          '\nEin Beispiel Aufruf wäre hier somit: test.xml')
+    xml_document = input("Bitte geben Sie den Namen der XML-Datei an: ")
     xml_document = str(xml_document)
     with open(xml_document, 'r', encoding='utf-8') as xml_file:
         tree = Et.parse(xml_file)
     root = tree.getroot()
+    path = os.getcwd()
+    try:
+        files_dir = path + '/txt_files'
+        files_dir = str(files_dir)
+        os.mkdir(files_dir)
+    except:
+        print('Creation of directory failed.')
     print("\n1 - Kopiere Inhalt der CDATA-Zeilen in neue TXT-Files und ersetze diese Zeilen durch die Dateinamen"
           "\n2 - Kopiert nun den Inhalt der durch '1' Erstellten TXT-Files zurück an die ursprüngliche Position. (Bitte nur ausführen wenn zuvor einmal die 1 ausgeführt wurde)"
-          "\n3 - Führt 1 und 2 zusammen aus.")
+          "\n3 - Führt 1 und 2 zusammen aus."
+          "\n0 - Programm beenden")
     input_num = input("\nBitte geben Sie nun Ihre Auswahl an: ")
     input_num = int(input_num)
 
@@ -101,11 +111,13 @@ def main():
         get_cdata(root, xml_document, tree, state=0)  # state = 0 --> Copy CDATA Content to txt Files
         get_cdata(root, xml_document, tree, state=1)  # state = 1 --> Replace CDATA Content with the Filenames
         refine_txt_files()  # add CDATA brackets to TXT Files
+        main()
 
     if input_num == 2:
         print('\nOption 2 wurde ausgewählt\n')
         get_cdata(root, xml_document, tree, state=2)  # copy TXT Inputs to its former position again
         replace_lt_gt(xml_document)  # replace &lt; with < and &gt; with >
+        main()
 
     if input_num == 3:  # do both
         print('\nOption 1  und 2 wurde ausgewählt\n')
@@ -114,6 +126,10 @@ def main():
         refine_txt_files()
         get_cdata(root, xml_document, tree, state=2)
         replace_lt_gt(xml_document)
+
+    if input_num == 0:
+        print("Beende das Programm")
+        exit()
 
 
 main()
