@@ -1,5 +1,7 @@
 import xml.etree.ElementTree as Et
 import os
+import pathlib
+
 
 file_name = "_No_Translate.txt"
 
@@ -84,13 +86,27 @@ def replace_lt_gt(xml_document):
         file_w.close()
 
 
-def main():
-    print('Beachten Sie bitte das die XML-Datei sich im selben Verzeichnis wie diese exe befinden muss.'
-          '\nEin Beispiel Aufruf wäre hier somit: test.xml')
-    xml_document = input("Bitte geben Sie den Namen der XML-Datei an: ")
-    xml_document = str(xml_document)
+def main(xml_document):
+    try:
+        if(xml_document == None):
+            xml_document = input("Bitte geben Sie den Namen der XML-Datei an: ")
+            xml_document = str(xml_document)
+            if len(xml_document) == 0:
+                print('Bitte überprüfen Sie Ihre Eingabe')
+                main(None)
+            data_check = xml_document
+            data_check = pathlib.Path(data_check).suffix
+            if '.xml"' != data_check:
+                exit()
+            if xml_document[0] == '"':
+                xml_document = xml_document[1:]
+                xml_document = xml_document[:-1]
+    except:
+        print("\nBitte versuchen Sie es erneut.")
+
     with open(xml_document, 'r', encoding='utf-8') as xml_file:
         tree = Et.parse(xml_file)
+
     root = tree.getroot()
     path = os.getcwd()
     try:
@@ -111,13 +127,16 @@ def main():
         get_cdata(root, xml_document, tree, state=0)  # state = 0 --> Copy CDATA Content to txt Files
         get_cdata(root, xml_document, tree, state=1)  # state = 1 --> Replace CDATA Content with the Filenames
         refine_txt_files()  # add CDATA brackets to TXT Files
-        main()
+
+        last_state = input("\nMoechten Sie zurück zur Auswahl oder das Programm verlassen?\n0 - Programm verlassen\n1 - zurück zur Auswahl\n")
+        last_state = int(last_state)
+        if last_state == 1:
+            main(xml_document)
 
     if input_num == 2:
         print('\nOption 2 wurde ausgewählt\n')
         get_cdata(root, xml_document, tree, state=2)  # copy TXT Inputs to its former position again
         replace_lt_gt(xml_document)  # replace &lt; with < and &gt; with >
-        main()
 
     if input_num == 3:  # do both
         print('\nOption 1  und 2 wurde ausgewählt\n')
@@ -132,4 +151,4 @@ def main():
         exit()
 
 
-main()
+main(None)

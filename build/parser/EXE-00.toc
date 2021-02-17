@@ -39,7 +39,7 @@
  [],
  False,
  False,
- 1612956278,
+ 1613549619,
  [('run.exe',
    'c:\\users\\s.amin\\documents\\github\\cdata_export\\venv\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit\\run.exe',
    'EXECUTABLE')])
